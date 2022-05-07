@@ -1,7 +1,7 @@
 # pervasive_seminar
 
-Install Pupil Desktop Software - https://pupil-labs.com/products/core/
-  Make sure WinRAR is installed
+- Install Pupil Desktop Software - https://pupil-labs.com/products/core/
+  - Make sure WinRAR is installed
 Clone the Github Repo - https://github.com/cwittwer/pervasive_seminar.git
 	git clone https://github.com/cwittwer/pervasive_seminar.git
 Move to that repo
